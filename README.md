@@ -1,7 +1,7 @@
 <p align=center>
   <br>cepCAT</br>
   <img src="https://i.imgur.com/opNmjut.png" width="300" height="500"/>
-  <br>App em react que acessa uma API de CEPs retornando o endereço completo para adoção de gatos 🐱</br>
+  <br>App em react native que acessa uma API de CEPs retornando o endereço completo para adoção de gatos 🐱</br>
 </p>
   
 
